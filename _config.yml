@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kxmmxnjx@outlook.com"
+      # url: "mailto:kxmmxnjx@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://kxmmxnjx.dev/"
